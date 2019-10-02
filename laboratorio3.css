@@ -1,0 +1,15 @@
+.laboratorio__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.laboratorio__title {
+  font-family: 'Indie Flower', cursive;
+  font-size: 50px;
+}
+
+.laboratorio__text {
+  font-family: 'Roboto', sans-serif;
+}
